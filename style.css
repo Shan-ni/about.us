@@ -59,9 +59,9 @@ body{
     width:32%;
     word-break: break-all;
 }
-.member_hover:first-child .member_paragraph1{
-    margin: 90px 0 0 2vw;
-}
+/*.member_hover:first-child .member_paragraph1{*/
+/*    margin: 90px 0 0 2vw;*/
+/*}*/
 
 .member_details .member_paragraph1{
 
@@ -139,7 +139,7 @@ body{
     display: block;
     justify-content: center;
     width: auto;
-    height: 530px;
+    height: 41vw;
     background-color: rgba(255, 255, 255, 0.65);
     border-radius: 15px;
     margin-left: 8vw;
@@ -160,8 +160,11 @@ body{
     margin:0;
     width:60%;
     height:100%;
-    float:left;
-    /*padding: 70px 10% 0 5%;*/
+    /*float:left;*/
+    position: absolute;
+    right: 10vw;
+    bottom: 2.6vw;
+    /*padding: -20px 73px 0 73px;*/
 }
 /*橫的關於我們*/
 .div2{
